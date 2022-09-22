@@ -1,1 +1,0 @@
- programming - scripting - debugging - operating systems - mobile - desktop - server - hardware repair - software troubleshooting - system administration - security - device configuration - networks - internet - cloud - vpn - active directory - azure - cisco - windows - linux - macos - ios - android - teams - office - outlook - onedrive - sharepoint
