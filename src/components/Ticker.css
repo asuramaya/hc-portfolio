@@ -1,0 +1,28 @@
+.ticker-wrap {
+
+}
+
+.ticker {
+
+  display: flex;  
+  overflow:scroll;
+  white-space: nowrap;
+  
+
+}
+
+.ticker-item {
+  margin: 2%;
+  margin-inline: 5%;
+  color : white;
+  font-size: 1.5em;
+  -webkit-user-select: none; /* Chrome/Safari */ 
+}
+
+.ticker-item:hover {
+  cursor: pointer;
+}
+
+.ticker::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}

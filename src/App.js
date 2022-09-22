@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import { Component } from "react";
+import { Header } from "./components/";
+import resumeData from "./resumeData.json";
+import { Home, Contact, About } from "./pages";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch,
+  Link,
+  Redirect,
+  Routes,
+} from "react-router-dom";
+
+import "./App.css";
+
+class App extends Component {
+  render() {
+    return (
+      <div className="background2">
+        <div className="background">
+          <Header data={resumeData} />
+          <Routes>
+            <Route path="/" element={<Home data={resumeData} />} />
+            <Route path="/contact" element={<Contact data={resumeData} />} />
+            <Route path="/about" element={<About data={resumeData} />} />
+          </Routes>
+        </div>
+      </div>
+    );
+  }
 }
 
 export default App;

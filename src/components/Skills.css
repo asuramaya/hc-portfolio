@@ -1,0 +1,48 @@
+.skills {
+  margin-top: 2%;
+}
+
+.skill {
+  
+  /* row align*/
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-evenly;
+  color: white;
+  text-align: center;
+
+  background: rgba(0, 0, 0, 70%);
+  background-size: cover;
+  margin: auto;
+  padding: 2%;
+
+  font-family: "Roboto", sans-serif;
+  margin-top: 2%;
+}
+
+.skills h1 {
+  font-size: 2em;
+  font-style: italic;
+  font-weight: 600;
+  margin: auto;
+  font-family: "Times New Roman", Times, serif;
+
+  margin: auto;
+  width: 77%;
+
+  /* fixed size */
+}
+
+.skill h2 {
+  font-size: 1.5em;
+  margin-block: auto;
+  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif;
+
+  margin: 2%;
+}
+
+fieldset {
+  /*TEXT AROUND BORDER*/
+}

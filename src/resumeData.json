@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name": "Hector Chavez",
+    "occupation": "IT Engineer",
+    "description": "Computer expert, always learning something new. Great on the phone and in person. I love helping people and solving problems. I take pride in being detail oriented and a fast learner.",
+    "image": "profilepic.jpg",
+    "bio": " programming - scripting - debugging - operating systems - mobile - desktop - server - hardware repair - software - sysadmin - security - networks - internet - cloud - vpn - active directory - azure - cisco - windows - linux - macos - ios - android - teams - office - outlook - onedrive - sharepoint",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "hector.qzd12@gmail.com",
+    "phone": "832-607-5736",
+    "address": {
+
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77084"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University?",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "School #1 Maybe College?",
+        "degree": "What did you study 101",
+        "graduated": "March 2003",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "David Weekley Homes",
+        "title": "IT Technician",
+        "years": "Nov 2021 to Present",
+        "description": "Managing a stream of incoming calls and support tickets from internal clients. Troubleshooting business systems, networks, cloud services, drivers, and hardware. Deploying and maintaining Windows 10 images for new computers. Modifying security groups and users in Active Directory and Azure. Configuring Citrix, Cisco VPN, and Cisco Unity Call Manager. Advising team members on best practices for security and maintenance."
+      },
+      {
+        "company": "Harris County Public Health",
+        "title": "Field Technician",
+        "years": "Aug 2021 to Oct 2021",
+        "description": "On-site IT for HCPHS mass vaccination sites and BDU clinics. Responsible for network deployment & device upkeep for data entry and medical staff. Access to vaccination database through Power BI and SharePoint to verify clients against previous records. Ensuring compliance with health and safety standards for clients and other teammembers."
+      },
+      {
+        "company": "Sterling McCall Buick GMC",
+        "title": "Car Sales",
+        "years": "Nov 2020 to May 2021",
+        "description": "Understanding clients and their relationship to the product to close sales and overcome objections. Enhancing the dealer’s reputation by keeping an excellent personal brand and a reputable online presence. Acting as a subject matter expert on the automotive industry to help the client make an intelligent purchase."
+      },
+      {
+        "company": "Freelance",
+        "title": "IT Consultant",
+        "years": "Jan 2017 to Present",
+        "description": "Building and repairing computer systems for private and small business clients. Assisting with setup and configuration of consumer  electronics."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "abilities": {
+    "abs": [
+      {
+        "ab": "Computers",
+        "desc": "Proficient in troubleshooting a broad range of software across multiple operating systems (iOS, Android, Windows,  MacOS). Capable of system level hardware repair on computers and other IT devices.  Aware of current and upcoming trends in technology and business."
+      },
+      {
+        "ab": "Communication",
+        "desc": "I wield an arsenal of interpersonal skills that allow me to build trust and commitment between clients, team  members, and businesses. I am fluent in English and Spanish. I am comfortable speaking with strangers, and I enjoy making friends."
+      },
+      {
+        "ab": "Programming",
+        "desc": "Familiar with computer science fundamentals and programming in Python and JavaScript. Capable of learning new libraries and frameworks quickly. Some SQL experience and database design. "
+      }
+    ]
+  }
+}
